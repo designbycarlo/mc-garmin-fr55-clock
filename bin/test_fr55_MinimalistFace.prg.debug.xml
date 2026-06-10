@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="1" lineNum="19" parent="globals" pc="268435460" symbol="getApp"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="1" lineNum="20" parent="globals" pc="268435470" symbol="getApp"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/bin/gen/006-B3869-00/source/Rez.mcgen" id="2" lineNum="7" parent="globals/Rez" pc="268435486" symbol="&lt;init&gt;"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="3" lineNum="8" parent="globals/MinimalistFaceView" pc="268435510" symbol="&lt;init&gt;"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="4" lineNum="5" parent="globals/MinimalistFaceApp" pc="268435529" symbol="&lt;init&gt;"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="5" lineNum="46" parent="globals/MinimalistFaceView" pc="268435548" symbol="onExitSleep"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="5" lineNum="47" parent="globals/MinimalistFaceView" pc="268435550" symbol="onExitSleep"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="5" lineNum="48" parent="globals/MinimalistFaceView" pc="268435560" symbol="onExitSleep"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="7" lineNum="28" parent="globals/MinimalistFaceView" pc="268435577" symbol="onLayout"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="7" lineNum="29" parent="globals/MinimalistFaceView" pc="268435579" symbol="onLayout"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="7" lineNum="30" parent="globals/MinimalistFaceView" pc="268435611" symbol="onLayout"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="7" lineNum="33" parent="globals/MinimalistFaceView" pc="268435661" symbol="onLayout"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="8" lineNum="40" parent="globals/MinimalistFaceView" pc="268435675" symbol="onEnterSleep"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="8" lineNum="41" parent="globals/MinimalistFaceView" pc="268435677" symbol="onEnterSleep"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="8" lineNum="42" parent="globals/MinimalistFaceView" pc="268435687" symbol="onEnterSleep"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="9" lineNum="23" parent="globals/MinimalistFaceView" pc="268435704" symbol="initialize"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="9" lineNum="24" parent="globals/MinimalistFaceView" pc="268435706" symbol="initialize"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="54" parent="globals/MinimalistFaceView" pc="268435725" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="55" parent="globals/MinimalistFaceView" pc="268435729" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="56" parent="globals/MinimalistFaceView" pc="268435742" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="57" parent="globals/MinimalistFaceView" pc="268435755" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="60" parent="globals/MinimalistFaceView" pc="268435765" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="61" parent="globals/MinimalistFaceView" pc="268435787" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="66" parent="globals/MinimalistFaceView" pc="268435799" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="67" parent="globals/MinimalistFaceView" pc="268435810" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="71" parent="globals/MinimalistFaceView" pc="268435814" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="72" parent="globals/MinimalistFaceView" pc="268435831" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="75" parent="globals/MinimalistFaceView" pc="268435848" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="76" parent="globals/MinimalistFaceView" pc="268435871" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="77" parent="globals/MinimalistFaceView" pc="268435881" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="78" parent="globals/MinimalistFaceView" pc="268435887" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="79" parent="globals/MinimalistFaceView" pc="268435897" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="82" parent="globals/MinimalistFaceView" pc="268435923" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="83" parent="globals/MinimalistFaceView" pc="268435970" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="85" parent="globals/MinimalistFaceView" pc="268435992" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="86" parent="globals/MinimalistFaceView" pc="268436005" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="91" parent="globals/MinimalistFaceView" pc="268436051" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="92" parent="globals/MinimalistFaceView" pc="268436073" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="95" parent="globals/MinimalistFaceView" pc="268436129" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="98" parent="globals/MinimalistFaceView" pc="268436153" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="99" parent="globals/MinimalistFaceView" pc="268436207" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="101" parent="globals/MinimalistFaceView" pc="268436261" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="107" parent="globals/MinimalistFaceView" pc="268436339" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="108" parent="globals/MinimalistFaceView" pc="268436361" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="112" parent="globals/MinimalistFaceView" pc="268436401" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="113" parent="globals/MinimalistFaceView" pc="268436418" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="114" parent="globals/MinimalistFaceView" pc="268436437" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="116" parent="globals/MinimalistFaceView" pc="268436461" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="117" parent="globals/MinimalistFaceView" pc="268436483" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="120" parent="globals/MinimalistFaceView" pc="268436526" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="121" parent="globals/MinimalistFaceView" pc="268436548" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="125" parent="globals/MinimalistFaceView" pc="268436588" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="126" parent="globals/MinimalistFaceView" pc="268436613" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="127" parent="globals/MinimalistFaceView" pc="268436635" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="128" parent="globals/MinimalistFaceView" pc="268436660" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="131" parent="globals/MinimalistFaceView" pc="268436682" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="132" parent="globals/MinimalistFaceView" pc="268436704" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="135" parent="globals/MinimalistFaceView" pc="268436732" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="136" parent="globals/MinimalistFaceView" pc="268436754" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="12" lineNum="11" parent="globals/MinimalistFaceApp" pc="268436783" symbol="onStart"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="13" lineNum="14" parent="globals/MinimalistFaceApp" pc="268436786" symbol="getInitialView"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="13" lineNum="15" parent="globals/MinimalistFaceApp" pc="268436788" symbol="getInitialView"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="14" lineNum="7" parent="globals/MinimalistFaceApp" pc="268436825" symbol="initialize"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="14" lineNum="8" parent="globals/MinimalistFaceApp" pc="268436827" symbol="initialize"/>
+<entry filename="/Users/carlo/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="15" lineNum="12" parent="globals/MinimalistFaceApp" pc="268436846" symbol="onStop"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="11" symbol="BigFont"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="10" symbol="AppName"/>
+<entry id="4" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" object="true" symbol="Fonts"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry field="true" id="8" symbol="&lt;globals/MinimalistFaceView/&lt;&gt;myCustomFont&gt;"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="7" symbol="&lt;globals/MinimalistFaceView/&lt;&gt;isSleeping&gt;"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="9" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="6" object="true" symbol="MinimalistFaceView"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="5" object="true" symbol="MinimalistFaceApp"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435674" name="dc" stackId="1" startPc="268435577"/>
+<entry arg="true" endPc="268436782" name="dc" stackId="1" startPc="268435725"/>
+<entry endPc="268436781" name="w" stackId="2" startPc="268435729"/>
+<entry endPc="268436781" name="h" stackId="3" startPc="268435729"/>
+<entry endPc="268436781" name="cx" stackId="4" startPc="268435729"/>
+<entry endPc="268436781" name="clockTime" stackId="5" startPc="268435729"/>
+<entry endPc="268436781" name="now" stackId="6" startPc="268435729"/>
+<entry endPc="268436781" name="is24Hour" stackId="7" startPc="268435729"/>
+<entry endPc="268436781" name="hours" stackId="8" startPc="268435729"/>
+<entry endPc="268436781" name="timeStr" stackId="9" startPc="268435729"/>
+<entry endPc="268436781" name="greg" stackId="10" startPc="268435729"/>
+<entry endPc="268436781" name="dayOfWeekStr" stackId="11" startPc="268435729"/>
+<entry endPc="268436781" name="monthStr" stackId="12" startPc="268435729"/>
+<entry endPc="268436781" name="dateStr" stackId="13" startPc="268435729"/>
+<entry endPc="268436781" name="sysStats" stackId="14" startPc="268435729"/>
+<entry endPc="268436781" name="batLevel" stackId="15" startPc="268435729"/>
+<entry endPc="268436781" name="batStr" stackId="16" startPc="268435729"/>
+<entry endPc="268436781" name="barW" stackId="17" startPc="268435729"/>
+<entry endPc="268436781" name="barLeft" stackId="18" startPc="268435729"/>
+<entry endPc="268436781" name="barY" stackId="19" startPc="268435729"/>
+<entry endPc="268436781" name="fillW" stackId="20" startPc="268435729"/>
+</localVars>
+<deviceInfo deviceVersion="45fe3cbb0de8ea0a70e12628d2697915f1272301" partNumber="006-B3869-00"/>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="55" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="126" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/MinimalistFaceView" offset="173" parentId="globals" symbolId="MinimalistFaceView" type="class"/>
+<dataEntry label="globals/MinimalistFaceApp" offset="284" parentId="globals" symbolId="MinimalistFaceApp" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="355" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="394" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435509" name="&lt;init&gt;" parent="Rez" startPc="268435486">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435528" name="&lt;init&gt;" parent="MinimalistFaceView" startPc="268435510">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435547" name="&lt;init&gt;" parent="MinimalistFaceApp" startPc="268435529">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435576" name="onExitSleep" parent="MinimalistFaceView" startPc="268435548">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MinimalistFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435674" name="onLayout" parent="MinimalistFaceView" startPc="268435577">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435703" name="onEnterSleep" parent="MinimalistFaceView" startPc="268435675">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435724" name="initialize" parent="MinimalistFaceView" startPc="268435704">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MinimalistFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436782" name="onUpdate" parent="MinimalistFaceView" startPc="268435725">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436785" name="onStart" parent="MinimalistFaceApp" startPc="268436783">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436824" name="getInitialView" parent="MinimalistFaceApp" startPc="268436786">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436845" name="initialize" parent="MinimalistFaceApp" startPc="268436825">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436848" name="onStop" parent="MinimalistFaceApp" startPc="268436846">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

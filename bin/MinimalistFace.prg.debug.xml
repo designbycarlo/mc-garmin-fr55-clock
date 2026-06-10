@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="1" lineNum="19" parent="globals" pc="268435460" symbol="getApp"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="1" lineNum="20" parent="globals" pc="268435470" symbol="getApp"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/bin/gen/006-B3869-00/source/Rez.mcgen" id="2" lineNum="7" parent="globals/Rez" pc="268435486" symbol="&lt;init&gt;"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="3" lineNum="8" parent="globals/MinimalistFaceView" pc="268435510" symbol="&lt;init&gt;"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="4" lineNum="5" parent="globals/MinimalistFaceApp" pc="268435529" symbol="&lt;init&gt;"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="5" lineNum="29" parent="globals/MinimalistFaceView" pc="268435548" symbol="onExitSleep"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="5" lineNum="30" parent="globals/MinimalistFaceView" pc="268435550" symbol="onExitSleep"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="5" lineNum="31" parent="globals/MinimalistFaceView" pc="268435560" symbol="onExitSleep"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="7" lineNum="18" parent="globals/MinimalistFaceView" pc="268435577" symbol="onLayout"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="7" lineNum="19" parent="globals/MinimalistFaceView" pc="268435579" symbol="onLayout"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="8" lineNum="24" parent="globals/MinimalistFaceView" pc="268435621" symbol="onEnterSleep"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="8" lineNum="25" parent="globals/MinimalistFaceView" pc="268435623" symbol="onEnterSleep"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="8" lineNum="26" parent="globals/MinimalistFaceView" pc="268435633" symbol="onEnterSleep"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="9" lineNum="13" parent="globals/MinimalistFaceView" pc="268435650" symbol="initialize"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="9" lineNum="14" parent="globals/MinimalistFaceView" pc="268435652" symbol="initialize"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="37" parent="globals/MinimalistFaceView" pc="268435671" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="39" parent="globals/MinimalistFaceView" pc="268435675" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="40" parent="globals/MinimalistFaceView" pc="268435697" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="44" parent="globals/MinimalistFaceView" pc="268435709" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="45" parent="globals/MinimalistFaceView" pc="268435720" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="49" parent="globals/MinimalistFaceView" pc="268435724" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="50" parent="globals/MinimalistFaceView" pc="268435741" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="53" parent="globals/MinimalistFaceView" pc="268435758" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="54" parent="globals/MinimalistFaceView" pc="268435781" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="55" parent="globals/MinimalistFaceView" pc="268435791" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="56" parent="globals/MinimalistFaceView" pc="268435797" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="57" parent="globals/MinimalistFaceView" pc="268435807" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="59" parent="globals/MinimalistFaceView" pc="268435833" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="62" parent="globals/MinimalistFaceView" pc="268435880" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="63" parent="globals/MinimalistFaceView" pc="268435904" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="64" parent="globals/MinimalistFaceView" pc="268435958" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="65" parent="globals/MinimalistFaceView" pc="268436012" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="68" parent="globals/MinimalistFaceView" pc="268436090" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="69" parent="globals/MinimalistFaceView" pc="268436107" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="73" parent="globals/MinimalistFaceView" pc="268436146" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="74" parent="globals/MinimalistFaceView" pc="268436174" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="75" parent="globals/MinimalistFaceView" pc="268436202" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="77" parent="globals/MinimalistFaceView" pc="268436230" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="77" parent="globals/MinimalistFaceView" pc="268436237" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="78" parent="globals/MinimalistFaceView" pc="268436254" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="78" parent="globals/MinimalistFaceView" pc="268436261" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="79" parent="globals/MinimalistFaceView" pc="268436278" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="79" parent="globals/MinimalistFaceView" pc="268436285" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceView.mc" id="11" lineNum="83" parent="globals/MinimalistFaceView" pc="268436302" symbol="onUpdate"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="12" lineNum="11" parent="globals/MinimalistFaceApp" pc="268436327" symbol="onStart"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="13" lineNum="14" parent="globals/MinimalistFaceApp" pc="268436330" symbol="getInitialView"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="13" lineNum="15" parent="globals/MinimalistFaceApp" pc="268436332" symbol="getInitialView"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="14" lineNum="7" parent="globals/MinimalistFaceApp" pc="268436369" symbol="initialize"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="14" lineNum="8" parent="globals/MinimalistFaceApp" pc="268436371" symbol="initialize"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/source/MinimalistFaceApp.mc" id="15" lineNum="12" parent="globals/MinimalistFaceApp" pc="268436390" symbol="onStop"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/bin/gen/006-B3869-00/source/Rez.mcgen" id="16" lineNum="13" parent="globals/Rez/Layouts" pc="268436393" symbol="WatchFace"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/bin/gen/006-B3869-00/source/Rez.mcgen" id="16" lineNum="14" parent="globals/Rez/Layouts" pc="268436405" symbol="WatchFace"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/bin/gen/006-B3869-00/source/Rez.mcgen" id="16" lineNum="16" parent="globals/Rez/Layouts" pc="268436418" symbol="WatchFace"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/bin/gen/006-B3869-00/source/Rez.mcgen" id="16" lineNum="18" parent="globals/Rez/Layouts" pc="268436431" symbol="WatchFace"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/bin/gen/006-B3869-00/source/Rez.mcgen" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268436549" symbol="WatchFace"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/bin/gen/006-B3869-00/source/Rez.mcgen" id="16" lineNum="22" parent="globals/Rez/Layouts" pc="268436667" symbol="WatchFace"/>
+<entry filename="/Users/carlo/Library/CloudStorage/GoogleDrive-designbycarlo@gmail.com/My Drive/Garmin Dev/Garmin Monkey_C/MinimalistFace/bin/gen/006-B3869-00/source/Rez.mcgen" id="16" lineNum="24" parent="globals/Rez/Layouts" pc="268436785" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="11" symbol="AppName"/>
+<entry id="5" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="9" symbol="&lt;globals/MinimalistFaceView/&lt;&gt;isSleeping&gt;"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="10" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="7" object="true" symbol="MinimalistFaceView"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389347" symbol="color"/>
+<entry id="6" object="true" symbol="MinimalistFaceApp"/>
+<entry id="8" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435620" name="dc" stackId="1" startPc="268435577"/>
+<entry arg="true" endPc="268436326" name="dc" stackId="1" startPc="268435671"/>
+<entry endPc="268436325" name="clockTime" stackId="2" startPc="268435675"/>
+<entry endPc="268436325" name="now" stackId="3" startPc="268435675"/>
+<entry endPc="268436325" name="is24Hour" stackId="4" startPc="268435675"/>
+<entry endPc="268436325" name="hours" stackId="5" startPc="268435675"/>
+<entry endPc="268436325" name="timeStr" stackId="6" startPc="268435675"/>
+<entry endPc="268436325" name="greg" stackId="7" startPc="268435675"/>
+<entry endPc="268436325" name="dayOfWeekStr" stackId="8" startPc="268435675"/>
+<entry endPc="268436325" name="monthStr" stackId="9" startPc="268435675"/>
+<entry endPc="268436325" name="dateStr" stackId="10" startPc="268435675"/>
+<entry endPc="268436325" name="sysStats" stackId="11" startPc="268435675"/>
+<entry endPc="268436325" name="batStr" stackId="12" startPc="268435675"/>
+<entry endPc="268436325" name="timeLabel" stackId="13" startPc="268435675"/>
+<entry endPc="268436325" name="dateLabel" stackId="14" startPc="268435675"/>
+<entry endPc="268436325" name="batteryLabel" stackId="15" startPc="268435675"/>
+<entry arg="true" endPc="268436821" name="dc" stackId="1" startPc="268436393"/>
+<entry endPc="268436821" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268436405"/>
+<entry endPc="268436821" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268436405"/>
+<entry endPc="268436821" name="rez_cmp_local_text_HoursAndMinutes" stackId="4" startPc="268436405"/>
+<entry endPc="268436821" name="rez_cmp_local_text_Date" stackId="5" startPc="268436405"/>
+<entry endPc="268436821" name="rez_cmp_local_text_Battery" stackId="6" startPc="268436405"/>
+</localVars>
+<deviceInfo deviceVersion="45fe3cbb0de8ea0a70e12628d2697915f1272301" partNumber="006-B3869-00"/>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="63" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="134" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/MinimalistFaceView" offset="189" parentId="globals" symbolId="MinimalistFaceView" type="class"/>
+<dataEntry label="globals/MinimalistFaceApp" offset="292" parentId="globals" symbolId="MinimalistFaceApp" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="363" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="402" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="441" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435509" name="&lt;init&gt;" parent="Rez" startPc="268435486">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435528" name="&lt;init&gt;" parent="MinimalistFaceView" startPc="268435510">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435547" name="&lt;init&gt;" parent="MinimalistFaceApp" startPc="268435529">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435576" name="onExitSleep" parent="MinimalistFaceView" startPc="268435548">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MinimalistFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435620" name="onLayout" parent="MinimalistFaceView" startPc="268435577">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435649" name="onEnterSleep" parent="MinimalistFaceView" startPc="268435621">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435670" name="initialize" parent="MinimalistFaceView" startPc="268435650">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MinimalistFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436326" name="onUpdate" parent="MinimalistFaceView" startPc="268435671">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436329" name="onStart" parent="MinimalistFaceApp" startPc="268436327">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436368" name="getInitialView" parent="MinimalistFaceApp" startPc="268436330">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436389" name="initialize" parent="MinimalistFaceApp" startPc="268436369">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436392" name="onStop" parent="MinimalistFaceApp" startPc="268436390">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436821" name="WatchFace" parent="Layouts" startPc="268436393">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

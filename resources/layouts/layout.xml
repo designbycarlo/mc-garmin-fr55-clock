@@ -1,0 +1,9 @@
+<resources>
+    <layout id="WatchFace">
+        <label id="HoursAndMinutes" x="center" y="40%" font="Graphics.FONT_NUMBER_THAI_HOT" color="0xFFFFFF" justification="Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER" />
+
+        <label id="Date" x="center" y="62%" font="Graphics.FONT_MEDIUM" color="0xFFFFFF" justification="Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER" />
+        
+        <label id="Battery" x="center" y="70%" font="Graphics.FONT_MEDIUM" color="0xFFFFFF" justification="Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER" />
+    </layout>
+</resources>
