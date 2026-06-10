@@ -10,24 +10,6 @@ A clean, dark high-contrast minimalist watch face tailored for Garmin memory-in-
 - **Battery Status:** Numerical battery life indicator paired with a clean, low-profile linear progress bar.
 - **Ambient Sleep Mode:** A complete screen black-out optimization when entering low-power mode (wrist down), maximizing battery endurance.
 
-## Codespaces Setup
-To develop in GitHub Codespaces:
-1. **Install Java:** `sudo apt update && sudo apt install -y default-jre`
-2. **Install Monkey C Extension:** Search for "Monkey C" in the VS Code Extensions view and install it.
-3. **Download SDK:** 
-   - Use the `Monkey C: SDK Manager` command from the Command Palette (`Ctrl+Shift+P`).
-   - **Manual Installation:** If the GUI manager fails to render, extract the SDK manager manually:
-     ```bash
-     mkdir -p ~/bin/garmin
-     unzip connectiq-sdk-manager-linux.zip -d ~/bin/garmin
-     ```
-4. **Compile:**
-   ```bash
-   monkeyc -f monkey.jungle -o bin/MinimalistFace.prg -d fr55 -y developer_key.der
-   ```
-
-*Note: The Simulator requires a GUI environment. To run it, use a Dev Container with "Desktop" support or forward your X11 socket.*
-
 ## Setup
 
 ### Requirements
