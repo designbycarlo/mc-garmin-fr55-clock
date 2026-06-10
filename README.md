@@ -1,6 +1,6 @@
 # MinimalistFace — Garmin Connect IQ Watch Face
 
-![MinimalistFace Preview](https://drive.google.com/uc?export=view&id=1A2K4fPpbk81l8ISiNbTCtaAmdaix-71G)
+<img src="https://drive.google.com/uc?export=view&id=1A2K4fPpbk81l8ISiNbTCtaAmdaix-71G" width="250" alt="MinimalistFace Preview">
 
 A clean, dark high-contrast minimalist watch face tailored for Garmin memory-in-pixel (MIP) displays.
 
